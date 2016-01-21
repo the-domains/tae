@@ -1,7 +1,7 @@
 name: tae
 favicon: null
-layout_spectrum: 0.97009
-typography_spectrum: 0.0952
+layout_spectrum: 0.34006
+typography_spectrum: 0.79485
 title: "Hey It's Tae"
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#236072'
     - '#50bea3'
   brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 0.75
+  lightness: 0.6875
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
