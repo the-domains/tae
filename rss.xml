@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hey It's Tae]]></title>
         <description><![CDATA[Hey It's Tae]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tae/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 17:34:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 17:38:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tae/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Additional Post for fun:</p>]]></description>
+            <link>https://thegrid.ai/tae/f0706a04-c964-4919-9447-8bdc936401ad/index.html</link>
+            <guid isPermaLink="false">f0706a04-c964-4919-9447-8bdc936401ad</guid>
+            <pubDate>Thu, 21 Jan 2016 17:38:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is officially the second website I've launched completely from scratch, and I gotta say:</p>]]></description>
-            <link>undefined57138c38-8625-43aa-a5a6-6f0db0b41585/index.html</link>
+            <link>https://thegrid.ai/tae/57138c38-8625-43aa-a5a6-6f0db0b41585/index.html</link>
             <guid isPermaLink="false">57138c38-8625-43aa-a5a6-6f0db0b41585</guid>
             <pubDate>Thu, 21 Jan 2016 17:34:50 GMT</pubDate>
         </item>
