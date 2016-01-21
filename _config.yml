@@ -2,6 +2,7 @@ name: tae
 favicon: null
 layout_spectrum: 0.7729394203051925
 typography_spectrum: 0.9881063385400921
+title: "Hey It's Tae"
 cta:
   domain: null
   bucket: null
